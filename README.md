@@ -1,4 +1,4 @@
-# PowerX Mock POC
+# PX Mock POC
 
 This is a standalone mock POC for the Pair-to-Deploy flow.
 
